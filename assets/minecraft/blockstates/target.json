@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"power=0": { "model": "block/target/target_off" },
+		"power=1": { "model": "block/target/target_low" },
+		"power=2": { "model": "block/target/target_low" },
+		"power=3": { "model": "block/target/target_low" },
+		"power=4": { "model": "block/target/target_low" },
+		"power=5": { "model": "block/target/target_low" },
+		"power=6": { "model": "block/target/target_med" },
+		"power=7": { "model": "block/target/target_med" },
+		"power=8": { "model": "block/target/target_med" },
+		"power=9": { "model": "block/target/target_med" },
+		"power=10": { "model": "block/target/target_med" },
+		"power=11": { "model": "block/target/target_high" },
+		"power=12": { "model": "block/target/target_high" },
+		"power=13": { "model": "block/target/target_high" },
+		"power=14": { "model": "block/target/target_high" },
+		"power=15": { "model": "block/target/target_bull" }
+	}
+}

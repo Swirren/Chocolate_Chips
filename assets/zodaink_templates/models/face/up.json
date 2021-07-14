@@ -1,0 +1,15 @@
+{
+	"parent"   : "zodaink_display:default",
+	"textures" : {
+		"particle" : "#all"
+	},
+	"elements" : [
+		{
+			"from"  : [ 0, 16,  0],
+			"to"    : [16, 16, 16],
+			"faces" : {
+				"up" : {"texture": "#all", "cullface": "up"}
+			}
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "level=0": { "model": "block/composter/composter_0" },
+        "level=1": { "model": "block/composter/composter_1" },
+        "level=2": { "model": "block/composter/composter_2" },
+        "level=3": { "model": "block/composter/composter_3" },
+        "level=4": { "model": "block/composter/composter_4" },
+        "level=5": { "model": "block/composter/composter_5" },
+        "level=6": { "model": "block/composter/composter_6" },
+        "level=7": { "model": "block/composter/composter_7" },
+        "level=8": { "model": "block/composter/composter_8" }
+    }
+}

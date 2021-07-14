@@ -1,0 +1,18 @@
+{
+	"parent"   : "zodaink_display:default",
+	"textures" : {
+		"particle" : "#all"
+	},
+	"elements" : [
+		{
+			"from"  : [ 0,  0,  0],
+			"to"    : [16, 16, 16],
+			"faces" : {
+				"south" : {"texture": "#all", "cullface": "south"},
+				"north" : {"texture": "#all", "cullface": "north"},
+				"west"  : {"texture": "#all", "cullface": "west"},
+				"east"  : {"texture": "#all", "cullface": "east"}
+			}
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"age=25": { "model": "block/twisting_vines_old" },
+		"normal": { "model": "block/twisting_vines" }
+	}
+}

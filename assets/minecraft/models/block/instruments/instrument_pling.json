@@ -1,0 +1,6 @@
+{
+	"parent": "block/instrument",
+	"textures": {
+		"instrument": "block/instruments/instrument_pling"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/lectern",
+
+    "textures": {
+        "particle": "block/lectern_sides",
+        "bottom": "block/oak_planks",
+        "base": "block/lectern_base_powered",
+        "front": "block/lectern_front",
+        "sides": "block/lectern_sides",
+        "top": "block/lectern_top"
+    }
+}

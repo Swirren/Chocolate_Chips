@@ -1,0 +1,7 @@
+{
+	"parent"   : "item/generated",
+	"textures" : {
+		"layer0" : "spawn_egg/cod/0",
+		"layer1" : "spawn_egg/cod/1"
+	}
+}

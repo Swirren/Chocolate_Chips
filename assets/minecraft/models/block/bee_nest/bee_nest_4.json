@@ -1,0 +1,8 @@
+{
+	"parent": "block/bee_nest_base",
+	"textures": {
+		"front": "block/bee_nest/bee_nest_front_4",
+		"top": "block/bee_nest/bee_nest_top_4"
+    }
+}
+

@@ -1,0 +1,6 @@
+{
+	"parent"   : "zodaink_templates:face/up",
+	"textures" : {
+		"all" : "zodaink_note_block:top/pling"
+	}
+}
