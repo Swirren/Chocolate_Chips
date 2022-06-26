@@ -1,0 +1,157 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/cross",
+	"ambientocclusion": false,
+	"textures": {
+		"cross": "block/red_mushroom"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 3, 9],
+			"faces": {
+				"north": {"uv": [7, 13, 9, 16], "texture": "#cross"},
+				"east": {"uv": [7, 13, 8, 16], "texture": "#cross"},
+				"south": {"uv": [9, 13, 7, 16], "texture": "#cross"},
+				"west": {"uv": [8, 13, 9, 16], "texture": "#cross"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#cross"},
+				"down": {"uv": [8, 14, 7, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [7, 3, 7],
+			"to": [9, 4, 9],
+			"faces": {
+				"north": {"uv": [7, 13, 9, 14], "texture": "#cross"},
+				"east": {"uv": [7, 13, 8, 14], "texture": "#cross"},
+				"south": {"uv": [9, 13, 7, 14], "texture": "#cross"},
+				"west": {"uv": [8, 13, 9, 14], "texture": "#cross"},
+				"up": {"uv": [7, 13, 9, 14], "texture": "#cross"},
+				"down": {"uv": [8, 14, 7, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [6, 6, 6],
+			"to": [10, 7, 10],
+			"faces": {
+				"north": {"uv": [6, 9, 10, 10], "texture": "#cross"},
+				"east": {"uv": [6, 9, 10, 10], "texture": "#cross"},
+				"south": {"uv": [10, 9, 6, 10], "texture": "#cross"},
+				"west": {"uv": [6, 9, 10, 10], "texture": "#cross"},
+				"up": {"uv": [10, 9, 7, 10], "texture": "#cross"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [5, 5, 5],
+			"to": [11, 6, 11],
+			"faces": {
+				"north": {"uv": [5, 10, 11, 11], "texture": "#cross"},
+				"east": {"uv": [5, 10, 11, 11], "texture": "#cross"},
+				"south": {"uv": [11, 10, 5, 11], "texture": "#cross"},
+				"west": {"uv": [5, 10, 11, 11], "texture": "#cross"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [6, 5, 5],
+			"to": [10, 6, 11],
+			"faces": {
+				"up": {"uv": [10, 10, 6, 11], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [5, 5, 5],
+			"to": [6, 6, 11],
+			"faces": {
+				"up": {"uv": [11, 10, 5, 11], "rotation": 270, "texture": "#cross"}
+			}
+		},
+		{
+			"from": [10, 5, 5],
+			"to": [11, 6, 11],
+			"faces": {
+				"up": {"uv": [11, 10, 5, 11], "rotation": 90, "texture": "#cross"}
+			}
+		},
+		{
+			"from": [4, 4, 4],
+			"to": [12, 5, 12],
+			"faces": {
+				"north": {"uv": [4, 11, 12, 12], "texture": "#cross"},
+				"east": {"uv": [4, 11, 12, 12], "texture": "#cross"},
+				"south": {"uv": [12, 11, 4, 12], "texture": "#cross"},
+				"west": {"uv": [4, 11, 12, 12], "texture": "#cross"},
+				"down": {"uv": [10, 12, 11, 13], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [5, 4, 4],
+			"to": [11, 5, 12],
+			"faces": {
+				"up": {"uv": [11, 11, 5, 12], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [11, 4, 4],
+			"to": [12, 5, 12],
+			"faces": {
+				"up": {"uv": [12, 11, 4, 12], "rotation": 90, "texture": "#cross"}
+			}
+		},
+		{
+			"from": [4, 4, 4],
+			"to": [5, 5, 12],
+			"faces": {
+				"up": {"uv": [4, 11, 12, 12], "rotation": 90, "texture": "#cross"}
+			}
+		},
+		{
+			"from": [4, 3, 4],
+			"to": [12, 4, 5],
+			"faces": {
+				"north": {"uv": [4, 12, 12, 13], "texture": "#cross"},
+				"south": {"uv": [12, 12, 4, 13], "texture": "#cross"},
+				"up": {"uv": [12, 12, 4, 13], "texture": "#cross"},
+				"down": {"uv": [4, 12, 12, 13], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [4, 3, 11],
+			"to": [12, 4, 12],
+			"faces": {
+				"north": {"uv": [4, 12, 12, 13], "texture": "#cross"},
+				"south": {"uv": [12, 12, 4, 13], "texture": "#cross"},
+				"up": {"uv": [12, 12, 4, 13], "texture": "#cross"},
+				"down": {"uv": [4, 12, 12, 13], "rotation": 180, "texture": "#cross"}
+			}
+		},
+		{
+			"from": [11, 3, 4],
+			"to": [12, 4, 12],
+			"faces": {
+				"east": {"uv": [4, 12, 12, 13], "texture": "#cross"},
+				"west": {"uv": [10, 12, 11, 13], "texture": "#cross"},
+				"up": {"uv": [12, 12, 4, 13], "texture": "#cross"},
+				"down": {"uv": [4, 12, 12, 13], "rotation": 90, "texture": "#cross"}
+			}
+		},
+		{
+			"from": [4, 3, 4],
+			"to": [5, 4, 12],
+			"faces": {
+				"east": {"uv": [11, 12, 12, 13], "texture": "#cross"},
+				"west": {"uv": [4, 12, 12, 13], "texture": "#cross"},
+				"up": {"uv": [12, 12, 4, 13], "texture": "#cross"},
+				"down": {"uv": [12, 12, 4, 13], "rotation": 90, "texture": "#cross"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "brown_mushroom",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+		}
+	]
+}

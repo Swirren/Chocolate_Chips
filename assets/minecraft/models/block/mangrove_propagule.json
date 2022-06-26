@@ -1,0 +1,386 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/mangrove_propagule",
+		"sapling": "block/mangrove_propagule"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 9, 9],
+			"faces": {
+				"north": {"uv": [7, 7, 9, 16], "texture": "#sapling"},
+				"east": {"uv": [7, 7, 9, 16], "texture": "#sapling"},
+				"south": {"uv": [7, 7, 9, 16], "texture": "#sapling"},
+				"west": {"uv": [7, 7, 9, 16], "texture": "#sapling"},
+				"up": {"uv": [7, 7, 9, 9], "texture": "#sapling"},
+				"down": {"uv": [7, 14, 9, 16], "texture": "#sapling"}
+			}
+		},
+		{
+			"from": [7.5, 9, 7.5],
+			"to": [8.5, 12, 8.5],
+			"faces": {
+				"north": {"uv": [7, 4, 8, 7], "texture": "#sapling"},
+				"east": {"uv": [7, 4, 8, 7], "texture": "#sapling"},
+				"south": {"uv": [7, 4, 8, 7], "texture": "#sapling"},
+				"west": {"uv": [7, 4, 8, 7], "texture": "#sapling"},
+				"up": {"uv": [7, 4, 8, 5], "texture": "#sapling"},
+				"down": {"uv": [7, 6, 8, 7], "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_0",
+			"from": [7.85, 14, 9.5],
+			"to": [8.15, 15, 10.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 6.5, 0.5]},
+			"faces": {
+				"north": {"uv": [9, 1, 10, 2], "texture": "#sapling"},
+				"east": {"uv": [9, 2, 10, 1], "rotation": 180, "texture": "#sapling"},
+				"south": {"uv": [9, 1, 10, 2], "texture": "#sapling"},
+				"west": {"uv": [9, 1, 10, 2], "texture": "#sapling"},
+				"up": {"uv": [10, 1, 9, 2], "rotation": 270, "texture": "#sapling"},
+				"down": {"uv": [9, 1, 10, 2], "rotation": 270, "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_1",
+			"from": [7.85, 14, 10.5],
+			"to": [8.15, 15, 11.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 6.5, 0.5]},
+			"faces": {
+				"north": {"uv": [10, 1, 11, 2], "texture": "#sapling"},
+				"east": {"uv": [10, 2, 11, 1], "rotation": 180, "texture": "#sapling"},
+				"south": {"uv": [10, 1, 11, 2], "texture": "#sapling"},
+				"west": {"uv": [10, 1, 11, 2], "texture": "#sapling"},
+				"up": {"uv": [11, 1, 10, 2], "rotation": 270, "texture": "#sapling"},
+				"down": {"uv": [10, 1, 11, 2], "rotation": 270, "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_2",
+			"from": [7.85, 13, 8.5],
+			"to": [8.15, 14, 9.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 6.5, 0.5]},
+			"faces": {
+				"north": {"uv": [8, 2, 9, 3], "texture": "#sapling"},
+				"east": {"uv": [8, 3, 9, 2], "rotation": 180, "texture": "#sapling"},
+				"south": {"uv": [8, 2, 9, 3], "texture": "#sapling"},
+				"west": {"uv": [8, 2, 9, 3], "texture": "#sapling"},
+				"up": {"uv": [9, 2, 8, 3], "rotation": 270, "texture": "#sapling"},
+				"down": {"uv": [8, 2, 9, 3], "rotation": 270, "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_3",
+			"from": [7.85, 13, 9.5],
+			"to": [8.15, 14, 10.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 6.5, 0.5]},
+			"faces": {
+				"north": {"uv": [9, 2, 10, 3], "texture": "#sapling"},
+				"east": {"uv": [9, 3, 10, 2], "rotation": 180, "texture": "#sapling"},
+				"south": {"uv": [9, 2, 10, 3], "texture": "#sapling"},
+				"west": {"uv": [9, 2, 10, 3], "texture": "#sapling"},
+				"up": {"uv": [10, 2, 9, 3], "rotation": 270, "texture": "#sapling"},
+				"down": {"uv": [9, 2, 10, 3], "rotation": 270, "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_4",
+			"from": [7.85, 13, 10.5],
+			"to": [8.15, 14, 11.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 6.5, 0.5]},
+			"faces": {
+				"north": {"uv": [10, 2, 11, 3], "texture": "#sapling"},
+				"east": {"uv": [10, 3, 11, 2], "rotation": 180, "texture": "#sapling"},
+				"south": {"uv": [10, 2, 11, 3], "texture": "#sapling"},
+				"west": {"uv": [10, 2, 11, 3], "texture": "#sapling"},
+				"up": {"uv": [11, 2, 10, 3], "rotation": 270, "texture": "#sapling"},
+				"down": {"uv": [10, 2, 11, 3], "rotation": 270, "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_5",
+			"from": [7.85, 12, 5.5],
+			"to": [8.15, 13, 6.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 6.5, 0.5]},
+			"faces": {
+				"north": {"uv": [5, 3, 6, 4], "texture": "#sapling"},
+				"east": {"uv": [5, 4, 6, 3], "rotation": 180, "texture": "#sapling"},
+				"south": {"uv": [5, 3, 6, 4], "texture": "#sapling"},
+				"west": {"uv": [5, 3, 6, 4], "texture": "#sapling"},
+				"up": {"uv": [6, 3, 5, 4], "rotation": 270, "texture": "#sapling"},
+				"down": {"uv": [5, 3, 6, 4], "rotation": 270, "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_6",
+			"from": [7.85, 12, 6.5],
+			"to": [8.15, 13, 7.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 6.5, 0.5]},
+			"faces": {
+				"north": {"uv": [6, 3, 7, 4], "texture": "#sapling"},
+				"east": {"uv": [6, 4, 7, 3], "rotation": 180, "texture": "#sapling"},
+				"south": {"uv": [6, 3, 7, 4], "texture": "#sapling"},
+				"west": {"uv": [6, 3, 7, 4], "texture": "#sapling"},
+				"up": {"uv": [7, 3, 6, 4], "rotation": 270, "texture": "#sapling"},
+				"down": {"uv": [6, 3, 7, 4], "rotation": 270, "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_7",
+			"from": [7.85, 12, 8.5],
+			"to": [8.15, 13, 9.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 6.5, 0.5]},
+			"faces": {
+				"north": {"uv": [8, 3, 9, 4], "texture": "#sapling"},
+				"east": {"uv": [8, 4, 9, 3], "rotation": 180, "texture": "#sapling"},
+				"south": {"uv": [8, 3, 9, 4], "texture": "#sapling"},
+				"west": {"uv": [8, 3, 9, 4], "texture": "#sapling"},
+				"up": {"uv": [9, 3, 8, 4], "rotation": 270, "texture": "#sapling"},
+				"down": {"uv": [8, 3, 9, 4], "rotation": 270, "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_8",
+			"from": [7.85, 12, 9.5],
+			"to": [8.15, 13, 10.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 6.5, 0.5]},
+			"faces": {
+				"north": {"uv": [9, 3, 10, 4], "texture": "#sapling"},
+				"east": {"uv": [9, 4, 10, 3], "rotation": 180, "texture": "#sapling"},
+				"south": {"uv": [9, 3, 10, 4], "texture": "#sapling"},
+				"west": {"uv": [9, 3, 10, 4], "texture": "#sapling"},
+				"up": {"uv": [10, 3, 9, 4], "rotation": 270, "texture": "#sapling"},
+				"down": {"uv": [9, 3, 10, 4], "rotation": 270, "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_9",
+			"from": [7.85, 11, 4.5],
+			"to": [8.15, 12, 5.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 6.5, 0.5]},
+			"faces": {
+				"north": {"uv": [4, 4, 5, 5], "texture": "#sapling"},
+				"east": {"uv": [4, 5, 5, 4], "rotation": 180, "texture": "#sapling"},
+				"south": {"uv": [4, 4, 5, 5], "texture": "#sapling"},
+				"west": {"uv": [4, 4, 5, 5], "texture": "#sapling"},
+				"up": {"uv": [5, 4, 4, 5], "rotation": 270, "texture": "#sapling"},
+				"down": {"uv": [4, 4, 5, 5], "rotation": 270, "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_10",
+			"from": [7.85, 11, 5.5],
+			"to": [8.15, 12, 6.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 6.5, 0.5]},
+			"faces": {
+				"north": {"uv": [5, 4, 6, 5], "texture": "#sapling"},
+				"east": {"uv": [5, 5, 6, 4], "rotation": 180, "texture": "#sapling"},
+				"south": {"uv": [5, 4, 6, 5], "texture": "#sapling"},
+				"west": {"uv": [5, 4, 6, 5], "texture": "#sapling"},
+				"up": {"uv": [6, 4, 5, 5], "rotation": 270, "texture": "#sapling"},
+				"down": {"uv": [5, 4, 6, 5], "rotation": 270, "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_11",
+			"from": [7.85, 11, 6.5],
+			"to": [8.15, 12, 7.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 6.5, 0.5]},
+			"faces": {
+				"north": {"uv": [6, 4, 7, 5], "texture": "#sapling"},
+				"east": {"uv": [6, 5, 7, 4], "rotation": 180, "texture": "#sapling"},
+				"south": {"uv": [6, 4, 7, 5], "texture": "#sapling"},
+				"west": {"uv": [6, 4, 7, 5], "texture": "#sapling"},
+				"up": {"uv": [7, 4, 6, 5], "rotation": 270, "texture": "#sapling"},
+				"down": {"uv": [6, 4, 7, 5], "rotation": 270, "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_1",
+			"from": [9.5, 14, 7.85],
+			"to": [10.5, 15, 8.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [9, 2, 10, 1], "rotation": 180, "texture": "#sapling"},
+				"east": {"uv": [9, 1, 10, 2], "texture": "#sapling"},
+				"south": {"uv": [9, 1, 10, 2], "texture": "#sapling"},
+				"west": {"uv": [9, 1, 10, 2], "texture": "#sapling"},
+				"up": {"uv": [10, 1, 9, 2], "rotation": 180, "texture": "#sapling"},
+				"down": {"uv": [9, 1, 10, 2], "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_2",
+			"from": [10.5, 14, 7.85],
+			"to": [11.5, 15, 8.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [10, 2, 11, 1], "rotation": 180, "texture": "#sapling"},
+				"east": {"uv": [10, 1, 11, 2], "texture": "#sapling"},
+				"south": {"uv": [10, 1, 11, 2], "texture": "#sapling"},
+				"west": {"uv": [10, 1, 11, 2], "texture": "#sapling"},
+				"up": {"uv": [11, 1, 10, 2], "rotation": 180, "texture": "#sapling"},
+				"down": {"uv": [10, 1, 11, 2], "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_3",
+			"from": [8.5, 13, 7.85],
+			"to": [9.5, 14, 8.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [8, 3, 9, 2], "rotation": 180, "texture": "#sapling"},
+				"east": {"uv": [8, 2, 9, 3], "texture": "#sapling"},
+				"south": {"uv": [8, 2, 9, 3], "texture": "#sapling"},
+				"west": {"uv": [8, 2, 9, 3], "texture": "#sapling"},
+				"up": {"uv": [9, 2, 8, 3], "rotation": 180, "texture": "#sapling"},
+				"down": {"uv": [8, 2, 9, 3], "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_4",
+			"from": [9.5, 13, 7.85],
+			"to": [10.5, 14, 8.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [9, 3, 10, 2], "rotation": 180, "texture": "#sapling"},
+				"east": {"uv": [9, 2, 10, 3], "texture": "#sapling"},
+				"south": {"uv": [9, 2, 10, 3], "texture": "#sapling"},
+				"west": {"uv": [9, 2, 10, 3], "texture": "#sapling"},
+				"up": {"uv": [10, 2, 9, 3], "rotation": 180, "texture": "#sapling"},
+				"down": {"uv": [9, 2, 10, 3], "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_5",
+			"from": [10.5, 13, 7.85],
+			"to": [11.5, 14, 8.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [10, 3, 11, 2], "rotation": 180, "texture": "#sapling"},
+				"east": {"uv": [10, 2, 11, 3], "texture": "#sapling"},
+				"south": {"uv": [10, 2, 11, 3], "texture": "#sapling"},
+				"west": {"uv": [10, 2, 11, 3], "texture": "#sapling"},
+				"up": {"uv": [11, 2, 10, 3], "rotation": 180, "texture": "#sapling"},
+				"down": {"uv": [10, 2, 11, 3], "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_6",
+			"from": [5.5, 12, 7.85],
+			"to": [6.5, 13, 8.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [5, 4, 6, 3], "rotation": 180, "texture": "#sapling"},
+				"east": {"uv": [5, 3, 6, 4], "texture": "#sapling"},
+				"south": {"uv": [5, 3, 6, 4], "texture": "#sapling"},
+				"west": {"uv": [5, 3, 6, 4], "texture": "#sapling"},
+				"up": {"uv": [6, 3, 5, 4], "rotation": 180, "texture": "#sapling"},
+				"down": {"uv": [5, 3, 6, 4], "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_7",
+			"from": [6.5, 12, 7.85],
+			"to": [7.5, 13, 8.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [6, 4, 7, 3], "rotation": 180, "texture": "#sapling"},
+				"east": {"uv": [6, 3, 7, 4], "texture": "#sapling"},
+				"south": {"uv": [6, 3, 7, 4], "texture": "#sapling"},
+				"west": {"uv": [6, 3, 7, 4], "texture": "#sapling"},
+				"up": {"uv": [7, 3, 6, 4], "rotation": 180, "texture": "#sapling"},
+				"down": {"uv": [6, 3, 7, 4], "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_8",
+			"from": [8.5, 12, 7.85],
+			"to": [9.5, 13, 8.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [8, 4, 9, 3], "rotation": 180, "texture": "#sapling"},
+				"east": {"uv": [8, 3, 9, 4], "texture": "#sapling"},
+				"south": {"uv": [8, 3, 9, 4], "texture": "#sapling"},
+				"west": {"uv": [8, 3, 9, 4], "texture": "#sapling"},
+				"up": {"uv": [9, 3, 8, 4], "rotation": 180, "texture": "#sapling"},
+				"down": {"uv": [8, 3, 9, 4], "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_9",
+			"from": [9.5, 12, 7.85],
+			"to": [10.5, 13, 8.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [9, 4, 10, 3], "rotation": 180, "texture": "#sapling"},
+				"east": {"uv": [9, 3, 10, 4], "texture": "#sapling"},
+				"south": {"uv": [9, 3, 10, 4], "texture": "#sapling"},
+				"west": {"uv": [9, 3, 10, 4], "texture": "#sapling"},
+				"up": {"uv": [10, 3, 9, 4], "rotation": 180, "texture": "#sapling"},
+				"down": {"uv": [9, 3, 10, 4], "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_10",
+			"from": [4.5, 11, 7.85],
+			"to": [5.5, 12, 8.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [4, 5, 5, 4], "rotation": 180, "texture": "#sapling"},
+				"east": {"uv": [4, 4, 5, 5], "texture": "#sapling"},
+				"south": {"uv": [4, 4, 5, 5], "texture": "#sapling"},
+				"west": {"uv": [4, 4, 5, 5], "texture": "#sapling"},
+				"up": {"uv": [5, 4, 4, 5], "rotation": 180, "texture": "#sapling"},
+				"down": {"uv": [4, 4, 5, 5], "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_11",
+			"from": [5.5, 11, 7.85],
+			"to": [6.5, 12, 8.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [5, 5, 6, 4], "rotation": 180, "texture": "#sapling"},
+				"east": {"uv": [5, 4, 6, 5], "texture": "#sapling"},
+				"south": {"uv": [5, 4, 6, 5], "texture": "#sapling"},
+				"west": {"uv": [5, 4, 6, 5], "texture": "#sapling"},
+				"up": {"uv": [6, 4, 5, 5], "rotation": 180, "texture": "#sapling"},
+				"down": {"uv": [5, 4, 6, 5], "texture": "#sapling"}
+			}
+		},
+		{
+			"name": "mangrove_propagule_12",
+			"from": [6.5, 11, 7.85],
+			"to": [7.5, 12, 8.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13, 8]},
+			"faces": {
+				"north": {"uv": [6, 5, 7, 4], "rotation": 180, "texture": "#sapling"},
+				"east": {"uv": [6, 4, 7, 5], "texture": "#sapling"},
+				"south": {"uv": [6, 4, 7, 5], "texture": "#sapling"},
+				"west": {"uv": [6, 4, 7, 5], "texture": "#sapling"},
+				"up": {"uv": [7, 4, 6, 5], "rotation": 180, "texture": "#sapling"},
+				"down": {"uv": [6, 4, 7, 5], "texture": "#sapling"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		1,
+		{
+			"name": "mangrove_propagule",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+		},
+		{
+			"name": "mangrove_propagule",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
+		}
+	]
+}
