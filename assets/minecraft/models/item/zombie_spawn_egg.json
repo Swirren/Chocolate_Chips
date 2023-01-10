@@ -1,7 +1,14 @@
 {
-	"parent"   : "item/generated",
-	"textures" : {
-		"layer0" : "spawn_egg/zombie/0",
-		"layer1" : "spawn_egg/zombie/1"
-	}
+  "parent": "minecraft:item/template_spawn_egg_model",
+    "textures": {
+        "texture": "minecraft:item/zombie_spawn_egg"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 3435
+            },
+            "model": "item/giant_spawn_egg"
+        }
+    ]
 }

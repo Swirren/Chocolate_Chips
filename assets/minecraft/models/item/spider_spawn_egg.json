@@ -1,7 +1,6 @@
 {
-	"parent"   : "item/generated",
-	"textures" : {
-		"layer0" : "spawn_egg/spider/0",
-		"layer1" : "spawn_egg/spider/1"
-	}
+  "parent": "minecraft:item/template_spawn_egg_model",
+    "textures": {
+        "texture": "minecraft:item/spider_spawn_egg"
+    }
 }

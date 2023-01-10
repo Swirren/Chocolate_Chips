@@ -1,7 +1,14 @@
 {
-	"parent"   : "item/generated",
-	"textures" : {
-		"layer0" : "spawn_egg/mooshroom/0",
-		"layer1" : "spawn_egg/mooshroom/1"
-	}
+  "parent": "minecraft:item/template_spawn_egg_model",
+    "textures": {
+        "texture": "minecraft:item/mooshroom_spawn_egg"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 3435
+            },
+            "model": "item/brown_mooshroom_spawn_egg"
+        }
+    ]
 }

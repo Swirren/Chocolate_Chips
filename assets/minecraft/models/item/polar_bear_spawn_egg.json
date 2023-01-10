@@ -1,7 +1,6 @@
 {
-	"parent"   : "item/generated",
-	"textures" : {
-		"layer0" : "spawn_egg/polar_bear/0",
-		"layer1" : "spawn_egg/polar_bear/1"
-	}
+  "parent": "minecraft:item/template_spawn_egg_model",
+    "textures": {
+        "texture": "minecraft:item/polar_bear_spawn_egg"
+    }
 }
