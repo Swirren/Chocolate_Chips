@@ -1,0 +1,7 @@
+{
+  "parent": "block/note_block/note_block",
+  "textures": {
+    "note": "block/note_block/notes/powered/note_9",
+    "instrument": "block/note_block/instruments/powered/basedrum"
+  }
+}
