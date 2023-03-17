@@ -3,7 +3,7 @@ By @Swirren#8879 - www.swirren.com
 Contains a vast amount of compiled/custom made textures to provide a better experience. Heavily inspired by the Plastic texture pack from the Xbox 360 edition
 
 
-This pack textures by myself, and the following users:
+This pack includes textures by myself, and the following users:
 
 
 Micrac (https://www.planetminecraft.com/texture-pack/vanilla-improvements-1-13-2-2/)
