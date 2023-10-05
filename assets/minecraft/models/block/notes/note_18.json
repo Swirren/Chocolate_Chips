@@ -1,6 +1,0 @@
-{
-	"parent": "block/note",
-	"textures": {
-		"note": "block/notes/note_18"
-    }
-}

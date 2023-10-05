@@ -1,6 +1,0 @@
-{
-	"parent"   : "zodaink_templates:face/cardinal",
-	"textures" : {
-		"all" : "zodaink_note_block:side/1"
-	}
-}

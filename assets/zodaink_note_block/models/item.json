@@ -1,8 +1,0 @@
-{
-	"parent"   : "zodaink_templates:cube/top_bottom/normal",
-	"textures" : {
-		"bottom" : "zodaink_note_block:bottom",
-		"top"    : "zodaink_note_block:top/harp",
-		"side"   : "zodaink_note_block:side/0"
-	}
-}

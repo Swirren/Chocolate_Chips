@@ -1,25 +1,28 @@
-By @Swirren#8879 - www.swirren.com
+## By @Swirren - www.swirren.com
 
-Contains a vast amount of compiled/custom made textures to provide a better experience. Heavily inspired by the Plastic texture pack from the Xbox 360 edition
-
-
-This pack includes textures by myself, and the following users:
+## Contains a vast amount of compiled/custom made textures to provide a better experience. Heavily inspired by the Plastic texture pack from the Xbox 360 edition
 
 
-Micrac (https://www.planetminecraft.com/texture-pack/vanilla-improvements-1-13-2-2/)
 
-ZodaInk (https://www.planetminecraft.com/texture-pack/unique-spawn-eggs-1-13/)
+## This pack includes textures by myself, and the following users:
 
-VanillaTweaks (https://vanillatweaks.net/)
 
-Dark Storm (https://darkstormpt.wixsite.com/revamp)
+## Micrac (https://www.planetminecraft.com/texture-pack/vanilla-improvements-1-13-2-2/)
 
-SnowyBoi64 (https://www.planetminecraft.com/texture-pack/plastic-texture-pack-1-16-3/)
+## ZodaInk (https://www.planetminecraft.com/texture-pack/unique-spawn-eggs-1-13/)
 
-Gouchnox (https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs/)
+## VanillaTweaks (https://vanillatweaks.net/)
 
-Astraliyte (https://www.planetminecraft.com/texture-pack/astraliyte-s-animated-textures/)
+## Dark Storm (https://darkstormpt.wixsite.com/revamp)
 
-MushirMickeyJoe (https://www.curseforge.com/minecraft/texture-packs/mickey-joes-relatively-improved-default)
+## SnowyBoi64 (https://www.planetminecraft.com/texture-pack/plastic-texture-pack-1-16-3/)
 
-KikuGie (https://modrinth.com/resourcepack/powered-notes)
+## Gouchnox (https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs/)
+
+## Astraliyte (https://www.planetminecraft.com/texture-pack/astraliyte-s-animated-textures/)
+
+## MushirMickeyJoe (https://www.curseforge.com/minecraft/texture-packs/mickey-joes-relatively-improved-default)
+
+## KikuGie (https://modrinth.com/resourcepack/powered-notes)
+
+## Nebulr (https://www.curseforge.com/minecraft/texture-packs/default-dark-mode)

@@ -1,6 +1,0 @@
-{
-	"parent"   : "zodaink_templates:face/down",
-	"textures" : {
-		"all" : "zodaink_note_block:bottom"
-	}
-}
