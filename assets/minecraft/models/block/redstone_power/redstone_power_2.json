@@ -1,6 +1,0 @@
-{
-	"parent": "block/redstone_power",
-	"textures": {
-		"power": "block/redstone_power/redstone_power_2"
-    }
-}

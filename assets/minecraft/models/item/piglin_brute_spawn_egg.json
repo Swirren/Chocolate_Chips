@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:item/template_spawn_egg_model",
-    "textures": {
-        "texture": "minecraft:item/piglin_brute_spawn_egg"
-    }
+	"credit": "Created by Stridey",
+	"parent": "item/piglin_spawn_egg",
+	"textures": {
+		"texture": "item/piglin_brute_spawn_egg"
+	}
 }

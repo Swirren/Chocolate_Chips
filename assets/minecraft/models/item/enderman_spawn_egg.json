@@ -1,14 +1,7 @@
 {
-  "parent": "minecraft:item/template_spawn_egg_model",
-    "textures": {
-        "texture": "minecraft:item/enderman_spawn_egg"
-    },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 3435
-            },
-            "model": "item/ender_dragon_spawn_egg"
-        }
-    ]
+	"credit": "Created by Stridey",
+	"parent": "item/blaze_spawn_egg",
+	"textures": {
+		"texture": "item/enderman_spawn_egg"
+	}
 }

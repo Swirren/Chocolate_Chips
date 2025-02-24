@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:item/template_spawn_egg_model",
-    "textures": {
-        "texture": "minecraft:item/skeleton_horse_spawn_egg"
-    }
+	"credit": "Created by Stridey",
+	"parent": "item/blaze_spawn_egg",
+	"textures": {
+		"texture": "item/skeleton_horse_spawn_egg"
+	}
 }

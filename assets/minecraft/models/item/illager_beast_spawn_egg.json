@@ -1,7 +1,0 @@
-{
-	"parent"   : "item/generated",
-	"textures" : {
-		"layer0" : "spawn_egg/illager_beast/0",
-		"layer1" : "spawn_egg/illager_beast/1"
-	}
-}

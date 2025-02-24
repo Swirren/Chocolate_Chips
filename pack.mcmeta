@@ -1,34 +1,38 @@
 {
-	"pack": {
-		"pack_format": 18,
-		"description": "§4V§ca§6r§ei§ao§2u§bs §3c§9o§5m§dp§ci§4l§6e§ed §ar§2et§be§3x§9t§5u§dr§4e§cs\n§7Created by Swirren - v0.27.5"
+    "pack": {
+        "pack_format": 34,
+		"supported_formats": [34, 46],
+        "description": "§4V§ca§6r§ei§ao§2u§bs §3c§9o§5m§dp§ci§4l§6e§ed §ar§2et§be§3x§9t§5u§dr§4e§cs\n§7v2.0 - www.swirren.com"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 42, "max_inclusive": 46},
+				"directory": "overlay_42"
+			},
+			{
+				"formats": {"min_inclusive": 46, "max_inclusive": 46},
+				"directory": "overlay_46"
+			}
+		]
 	}
 }
 ## By @Swirren - www.swirren.com
 
-## Contains a vast amount of compiled/custom made textures to provide a better experience. Heavily inspired by the Plastic texture pack from the Xbox 360 edition
+## Contains a vast amount of compiled or custom made textures.
 
 
 
 ## This pack includes textures by myself, and the following users:
 
+## VanillaTweaks (https://vanillatweaks.net/share#eFziJn)
 
-## Micrac (https://www.planetminecraft.com/texture-pack/vanilla-improvements-1-13-2-2/)
+## Grinnfi (https://modrinth.com/resourcepack/connected-chiseled-bookshelf)
 
-## ZodaInk (https://www.planetminecraft.com/texture-pack/unique-spawn-eggs-1-13/)
+## Lev0id (https://modrinth.com/resourcepack/connected-copper-grates)
 
-## VanillaTweaks (https://vanillatweaks.net/)
+## voxelity (https://modrinth.com/resourcepack/connected-outlined-wool)
 
-## Dark Storm (https://darkstormpt.wixsite.com/revamp)
+## Nenomia (https://modrinth.com/resourcepack/connected-sea-lanterns)
 
-## SnowyBoi64 (https://www.planetminecraft.com/texture-pack/plastic-texture-pack-1-16-3/)
-
-## Gouchnox (https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs/)
-
-## Astraliyte (https://www.planetminecraft.com/texture-pack/astraliyte-s-animated-textures/)
-
-## MushirMickeyJoe (https://www.curseforge.com/minecraft/texture-packs/mickey-joes-relatively-improved-default)
-
-## KikuGie (https://modrinth.com/resourcepack/powered-notes)
-
-## Nebulr (https://www.curseforge.com/minecraft/texture-packs/default-dark-mode)
+## BeastlyDude1234 (https://modrinth.com/resourcepack/connected-hotbar-(dark))

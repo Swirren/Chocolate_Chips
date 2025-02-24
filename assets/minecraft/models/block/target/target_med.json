@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "minecraft:block/target/target_top_med",
-    "side": "minecraft:block/target/target_side_med"
-  }
-}

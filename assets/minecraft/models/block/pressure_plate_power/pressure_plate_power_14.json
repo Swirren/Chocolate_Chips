@@ -1,6 +1,0 @@
-{
-	"parent": "block/pressure_plate_power",
-	"textures": {
-		"power": "block/pressure_plate_power/pressure_plate_power_14"
-    }
-}

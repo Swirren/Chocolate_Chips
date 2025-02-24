@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "bottom=false": { "model": "block/scaffolding_stable" },
-        "bottom=true": { "model": "block/scaffolding_unstable" },
-        "bottom=true,distance=6": { "model": "block/scaffolding_unstable_edge" }
-    }
-}

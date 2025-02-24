@@ -1,8 +1,0 @@
-{
-	"parent": "block/beehive_base",
-	"textures": {
-		"front": "block/beehive/beehive_front_2"
-	
-    }
-}
-

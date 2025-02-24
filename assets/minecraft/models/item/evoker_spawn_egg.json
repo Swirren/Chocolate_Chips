@@ -1,14 +1,7 @@
 {
-  "parent": "minecraft:item/template_spawn_egg_model",
-    "textures": {
-        "texture": "minecraft:item/evoker_spawn_egg"
-    },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 3435
-            },
-            "model": "item/illusioner_spawn_egg"
-        }
-    ]
+	"credit": "Created by Stridey",
+	"parent": "item/creeper_spawn_egg",
+	"textures": {
+		"texture": "item/evoker_spawn_egg"
+	}
 }
