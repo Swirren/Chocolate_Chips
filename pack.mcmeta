@@ -2,7 +2,7 @@
     "pack": {
         "pack_format": 34,
 		"supported_formats": [34, 46],
-        "description": "§4V§ca§6r§ei§ao§2u§bs §3c§9o§5m§dp§ci§4l§6e§ed §ar§2et§be§3x§9t§5u§dr§4e§cs\n§7v2.0 - www.swirren.com"
+        "description": "§4V§ca§6r§ei§ao§2u§bs §3c§9o§5m§dp§ci§4l§6e§ed §ar§2et§be§3x§9t§5u§dr§4e§cs\n§7v2.0.1 - www.swirren.com"
     },
 	"overlays": {
 		"entries": [
