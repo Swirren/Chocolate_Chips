@@ -1,8 +1,8 @@
 {
     "pack": {
-        "pack_format": 34,
+        "pack_format": 46,
 		"supported_formats": [34, 46],
-        "description": "§4V§ca§6r§ei§ao§2u§bs §3c§9o§5m§dp§ci§4l§6e§ed §ar§2et§be§3x§9t§5u§dr§4e§cs\n§7v2.0.1 - www.swirren.com"
+        "description": "§4V§ca§6r§ei§ao§2u§bs §3c§9o§5m§dp§ci§4l§6e§ed §ar§2et§be§3x§9t§5u§dr§4e§cs\n§7v2.1 - www.swirren.com"
     },
 	"overlays": {
 		"entries": [
@@ -21,18 +21,6 @@
 
 ## Contains a vast amount of compiled or custom made textures.
 
-
-
 ## This pack includes textures by myself, and the following users:
 
-## VanillaTweaks (https://vanillatweaks.net/share#eFziJn)
-
-## Grinnfi (https://modrinth.com/resourcepack/connected-chiseled-bookshelf)
-
-## Lev0id (https://modrinth.com/resourcepack/connected-copper-grates)
-
-## voxelity (https://modrinth.com/resourcepack/connected-outlined-wool)
-
-## Nenomia (https://modrinth.com/resourcepack/connected-sea-lanterns)
-
-## BeastlyDude1234 (https://modrinth.com/resourcepack/connected-hotbar-(dark))
+## VanillaTweaks, Grinnfi, Lev0id, voxelity, Nenomia, BeastlyDude1234, Nico4play, bebebea_loste, mythitorium, AmongstReality
